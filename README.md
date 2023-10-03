@@ -28,13 +28,13 @@ The following REQUIRED features are completed:
 
 I have chosen to duplicate the following layout from the Twitch app:
 
-<img src='https://imgur.com/a/RbyadoA.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://imgur.com/eo7ycMa.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/rkwLWvw.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/JHoCZXN.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
